@@ -1,0 +1,99 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+nav .navbar-brand
+{
+    margin-left: 15px;
+    color: #c21ff2;
+    
+}
+.bg-image
+{
+    background-image: url('image/image-07.jpeg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    color: #ff5526;
+}
+.bg-image h5
+{
+    margin-top: 150px;
+    margin-left: 52px;
+    letter-spacing: 5px;
+}
+.bg-image h1
+{
+    margin-left: 50px;
+    font-size: 50px;
+}
+.bg-image p
+{
+    margin-left: 52px;
+    width: 80%;
+    font-size: 17px;
+}
+.bg-image button
+{
+    background: rgb(251,152,59);
+    background: linear-gradient(90deg, rgba(251,152,59,1) 0%, rgba(246,144,115,1) 50%, rgba(242,31,191,1) 100%);  
+    width: 12%;
+    height: 45px;
+    margin-left: 52px;
+    padding: 10px;
+    border: none;
+    border-radius: 100px;
+}
+.fe-color
+{
+    height: 250px;
+    background: rgb(251,152,59);
+    background: linear-gradient(90deg, rgba(251,152,59,1) 0%, rgba(246,144,115,1) 50%, rgba(242,31,191,1) 100%);  
+}
+.fe_card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ct-about .ct-line
+{
+    width: 150px;
+    height: 2px;
+    background: rgb(251,152,59);
+    background: linear-gradient(90deg, rgba(251,152,59,1) 0%, rgba(246,144,115,1) 50%, rgba(242,31,191,1) 100%);  
+}
+.ct-about button
+{
+    background: rgb(251,152,59);
+    background: linear-gradient(90deg, rgba(251,152,59,1) 0%, rgba(246,144,115,1) 50%, rgba(242,31,191,1) 100%);  
+    height: 45px;
+    padding: 10px;
+    border: none;
+    border-radius: 100px;
+}
+.footer
+{
+    background: rgb(251,152,59);
+    background: linear-gradient(90deg, rgba(251,152,59,1) 0%, rgba(246,144,115,1) 50%, rgba(242,31,191,1) 100%);  
+}
+.footer .socials
+{
+    float: right;
+    margin-right: 96px;
+    overflow: hidden;
+}
+.footer a
+{
+    background-color: #c21ff2;
+    width: 55px;
+    height: 55px;
+    font-size: 35px;
+    border-radius: 500px;
+    text-align: center;
+    display: block;
+    float: left;
+    margin-left: 10px;
+}
