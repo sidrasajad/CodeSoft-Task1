@@ -12,7 +12,12 @@ A landing page built using HTML and CSS. This project was developed as part of m
 
 ## Screenshots
 
-![Landing Page Screenshot](images/screenshot.png)
+### Screenshot-01
+![Landing Page Screenshot](image/Page-01.PNG)
+### Screenshot-02
+![Landing Page Screenshot](image/Page-02.PNG)
+### Screenshot-03
+![Landing Page Screenshot](image/Page-03.PNG)
 
 ## Technologies Used
 
